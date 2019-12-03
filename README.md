@@ -13,7 +13,7 @@ expo start
 ## Screenshot
 
 <div align="center">
-  <img src="https://github.com/maxgfr/expo-video-player/blob/master/.github/1.png" height="540" width="280"/>
-  <img src="https://github.com/maxgfr/expo-video-player/blob/master/.github/2.png" height="540" width="280"/>
-  <img src="https://github.com/maxgfr/expo-video-player/blob/master/.github/3.png" height="540" width="280"/>
+  <img src="https://github.com/maxgfr/expo-video-player/blob/master/.github/1.jpg" height="540" width="280"/>
+  <img src="https://github.com/maxgfr/expo-video-player/blob/master/.github/2.jpg" height="540" width="280"/>
+  <img src="https://github.com/maxgfr/expo-video-player/blob/master/.github/3.jpg" height="540" width="280"/>
 </div>
