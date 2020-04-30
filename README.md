@@ -1,4 +1,4 @@
-# expo-video-player
+# expo-test-video-player
 
 It is a react-native / expo application which uses `expo-av` and `expo-video-player`. I compared both libraries in different use-case (portrait video, landscape video and music).
 
