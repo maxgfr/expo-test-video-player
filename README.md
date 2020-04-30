@@ -1,11 +1,13 @@
 # expo-test-video-player
 
-It is a react-native / expo application which uses `expo-av` and `expo-video-player`. I compared both libraries in different use-case (portrait video, landscape video and music).
+It is a react-native / expo application which uses `expo-video-player`
 
-## To run it
+## How to run it ?
 
 ```
 npm install -g expo-cli
+git clone https://github.com/maxgfr/expo-test-video-player
+cd expo-test-video-player
 npm install
 expo start
 ```
@@ -13,7 +15,6 @@ expo start
 ## Screenshot
 
 <div align="center">
-  <img src="https://github.com/maxgfr/expo-video-player/blob/master/.github/1.jpg" height="540" width="280"/>
-  <img src="https://github.com/maxgfr/expo-video-player/blob/master/.github/2.jpg" height="540" width="280"/>
-  <img src="https://github.com/maxgfr/expo-video-player/blob/master/.github/3.jpg" height="540" width="280"/>
+  <img src="https://github.com/maxgfr/expo-test-video-player/blob/master/.github/screen1.png" height="540" width="280"/>
+  <img src="https://github.com/maxgfr/expo-test-video-player/blob/master/.github/screen2.png" height="280" width="540"/>
 </div>
