@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-video-player",
-    "slug": "expo-video-player",
+    "name": "expo-test-video-player",
+    "slug": "expo-test-video-player",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
