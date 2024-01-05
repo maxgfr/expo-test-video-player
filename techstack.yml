@@ -1,7 +1,8 @@
 repo_name: maxgfr/expo-test-video-player
 report_id: 9b4a132eeb703a0c1f2f5113b80c2cb7
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T09:29:07+00:00'
+timestamp: '2024-01-05T08:56:19+00:00'
 requested_by: maxgfr
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/maxgfr/expo-test-video-player
   detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
@@ -27,7 +29,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/maxgfr/expo-test-video-player/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: "@maxgfr"
   last_updated_on: 2019-12-03 18:07:23.000000000 Z
@@ -41,7 +43,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/2699/KoK6gHzp.jpg
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/maxgfr/expo-test-video-player/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: "@maxgfr"
   last_updated_on: 2019-12-03 18:07:23.000000000 Z
@@ -55,7 +57,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/maxgfr/expo-test-video-player/blob/master/package-lock.json
   detection_source: babel.config.js
   last_updated_by: "@maxgfr"
   last_updated_on: 2019-12-03 18:07:23.000000000 Z
@@ -67,6 +69,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/maxgfr/expo-test-video-player
   detection_source: Repo Metadata
 - name: Yarn
   description: A new package manager for JavaScript
@@ -76,6 +79,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/maxgfr/expo-test-video-player/blob/master/yarn.lock
   detection_source: yarn.lock
   last_updated_by: "@maxgfr"
   last_updated_on: 2019-12-03 18:07:23.000000000 Z
@@ -87,6 +91,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/maxgfr/expo-test-video-player/blob/master/package.json
   detection_source: package.json
   last_updated_by: "@maxgfr"
   last_updated_on: 2019-12-03 18:07:23.000000000 Z
@@ -100,7 +105,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18526/default_6d0416098b5583c02111044f891c8f1f8e30a97e.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/maxgfr/expo-test-video-player/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: "@maxgfr"
   last_updated_on: 2020-04-30 17:34:30.000000000 Z
@@ -114,7 +119,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17801/default_78858facb60c08d15198eb69a6c7f48463f2c09f.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/maxgfr/expo-test-video-player/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: "@maxgfr"
   last_updated_on: 2020-04-30 17:34:30.000000000 Z
@@ -128,7 +133,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/maxgfr/expo-test-video-player/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: "@maxgfr"
   last_updated_on: 2019-12-03 18:07:23.000000000 Z
@@ -142,7 +147,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16064/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/maxgfr/expo-test-video-player/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: "@maxgfr"
   last_updated_on: 2019-12-03 18:07:23.000000000 Z
@@ -163,7 +168,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17683/default_894a45ad01fa93ac472db719cb1ef1b89f2924f0.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/maxgfr/expo-test-video-player/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: "@maxgfr"
   last_updated_on: 2019-12-03 18:07:23.000000000 Z
